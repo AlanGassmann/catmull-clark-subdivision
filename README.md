@@ -4,7 +4,6 @@ Este repositorio contiene la implementación en C++ del algoritmo de subdivisió
 
 ## Créditos y Autoría
 * **Código base y consigna original**: Prof. Pablo Novara (FICH-UNL).
-* **Implementación del algoritmo y optimizaciones**: Alan Gassmann.
 
 ## Características del Proyecto
 * **Modelos soportados**: El sistema permite cargar y procesar mallas de prueba iniciales como el cubo, icosaedro, plano, suzanne y estrella.
